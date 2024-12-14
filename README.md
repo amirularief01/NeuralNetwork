@@ -8,6 +8,14 @@ This repository contains implementations of basic machine learning algorithms wr
 - Titanic Dataset Problem using the above methods
 
 The goal of this project is to understand the core principles behind these algorithms and demonstrate their implementation without relying on external libraries like `scikit-learn`.
+## Datasets
+
+The following datasets are included in this repository:
+
+1. **TitanicTrainVal.csv**: Dataset for training and validating the Titanic classification model.
+2. **classification_test.csv**: Test dataset for classification.
+3. **classification_training.csv**: Training dataset for classification.
+4. **window_heat.csv**: A dataset related to window heat (possibly for regression or classification).
 
 ## Algorithms Implemented
 
