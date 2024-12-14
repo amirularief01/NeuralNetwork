@@ -1,7 +1,5 @@
 # Machine Learning from scratch
 
-# Machine Learning from Scratch
-
 This repository contains implementations of basic machine learning algorithms written from scratch, including:
 
 - Linear Regression using Stochastic Gradient Descent (SGD) with Mean Absolute Error (MAE)
